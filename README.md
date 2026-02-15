@@ -5,13 +5,6 @@ This project demonstrates UI/UX principles, responsive navigation, accessibility
 
 ---
 
-## Live Website
-
-WCET Server Link:  
-https://wcet.waketech.edu/alalgier/WEB210/Module07/index.html
-
----
-
 ## GitHub Repository
 
 Repository Link:  
