@@ -61,7 +61,7 @@ nav a:focus {
 
 /* HERO SECTION */
 .hero {
-    background: url("images/hero.png") no-repeat center center;
+    background: url("hero.png") no-repeat center center;
     background-size: cover;
     height: 80vh;
     display: flex;
@@ -178,3 +178,4 @@ footer {
         align-items: center;
     }
 }
+
